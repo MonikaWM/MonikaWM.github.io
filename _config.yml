@@ -1,0 +1,17 @@
+name: MonikaWM
+title: Just the Docs
+description: A Jekyll theme for documentation
+remote_theme: MonikaWM/just-the-docs
+
+color_scheme: dark
+
+# logo: "assets/images/"Morris_badge.png"
+
+aux0_links:
+"Source repository on GitHub":
+https://monikawm.github.io/
+
+back_to_top: true
+back_to_top_text: "Back to top"
+
+footer_content: "This documentation is part of the reference materials for the Technical Communication course at Vistula University (Warsaw). The content is based on <a href=\"https://github.com/flicstar/DITA-Mini-Manual\">Felicity Brand's example DITA project.</a>"
