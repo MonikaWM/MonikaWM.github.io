@@ -37,7 +37,7 @@ I lived in Iceland for almost 2 years. I have been working in Becromal Iceland e
 ![MonikaWM_kindle](assets/images/MonikaWM_kindle.jpg)
 *"Życie jest piękne!" - "Life is beautiful!", 2020*
 
-<<<<<<< HEAD
+
 Any questions? Need more information? Contact to me:
 
 e-mail: wilczyskamonika@yahoo.com
