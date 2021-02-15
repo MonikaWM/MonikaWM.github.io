@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Introduction
+title: Introduction - about me.
 nav_order: 1
-description: "Driver's Handbook for the Morris Mini Minor"
+description: "Handbook about Monika"
 permalink: /
 ---
 
