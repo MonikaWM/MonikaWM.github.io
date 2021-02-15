@@ -35,6 +35,7 @@ I lived in Iceland for almost 2 years. I have been working in Becromal Iceland e
 ![MonikaWM_bieszczady](assets/images/MonikaWM_bieszczady.jpg)
 *Bieszczady, 2020*
 ![MonikaWM_kindle](assets/images/MonikaWM_kindle.jpg)
+
 *"Życie jest piękne!" - "Life is beautiful!", 2020*
 
 
