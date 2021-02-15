@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Cleaning the exterior
-parent: Cleaning and Care
-nav_order: 1
+parent: My portfolio
+nav_order: 2
 ---
 
 # Cleaning the exterior
