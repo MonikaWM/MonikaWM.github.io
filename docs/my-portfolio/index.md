@@ -7,4 +7,4 @@ has_children: true
 
 # My portfolio
 
-Here you can check documentation I did during "Technical Communication" course at Vistula University, Warsaw 
+Here you can check documentation I did during "Technical Communication" course at Vistula University, Warsaw.
