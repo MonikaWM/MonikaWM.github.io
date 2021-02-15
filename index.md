@@ -13,7 +13,7 @@ permalink: /
 Hi!
 My name is Monika and I come from Poland. I'm Polish but I treat myself like a citizen of the World. Universe is my home. I'm almost 30 years old and I live in Dęblin, with my son, husband and 3 rats. Yes, rats - I love them! :) I like cycling and reading books - criminals (scandinavian are the best ones), reportages, (auto)biographies, something about meditation and mindfluence - a spiritual development.
 
-Now, I'm process engineer in the production of welded structures. My main role is do the workshop drawings. Before this vacancy I used to work as a Assistant to Designer in electrical and telecom industries. I did a lot of documentation and projects in my life (e.g. executive project, civil engineering design - mainly electrical and telecom).
+I graduated from the Lublin University of Technology, Electrical Engineering and Mechatronics. Now, I'm process engineer in the production of welded structures. My main role is do the workshop drawings. Before this vacancy I used to work as a Assistant to Designer in electrical and telecom industries. I did a lot of documentation and projects in my life (e.g. executive project, civil engineering design - mainly electrical and telecom).
 
 
 ## Fun fact from my past.
